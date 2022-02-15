@@ -4,7 +4,7 @@ time.sleep(0.9)
 print("Please wait while the console installs all of the packages.")
 import urllib.request
 import socket
-time.sleep(2)
+time.sleep(5)
 print("Please enter the website URL -- NO SPACES, NUMBERS, OR SYMBOLS (URL MUST BE VALID)")
 website = input()
 print ("-------------------------PLEASE WAIT---------------------------")
