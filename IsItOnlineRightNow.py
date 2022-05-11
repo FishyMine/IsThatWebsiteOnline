@@ -17,12 +17,12 @@ try:
    time.sleep(2)
 except:
     print("This website is not available, suspended, or doesnt exist.")
-      waitend = input()
+      waidstend = input()
 
 if result == 0:
     
    print ("Website is currently online and detected")
-   waitend = input()
+   waitefsnd = input()
 else:
    print ("Website is offline or not detected")
-   waitend = input()
+   waitevnd = input()
