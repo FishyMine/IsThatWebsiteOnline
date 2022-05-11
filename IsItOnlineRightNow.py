@@ -17,7 +17,7 @@ try:
    time.sleep(2)
 except:
     print("This website is not available, suspended, or doesnt exist.")
-      waidstend = input()
+    waidstend = input()
 
 if result == 0:
     
